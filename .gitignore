@@ -396,3 +396,8 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+/.idea/.idea.trilha-net-explorando-desafio.dir/.idea/.gitignore
+/.idea/.idea.trilha-net-explorando-desafio.dir/.idea/codestream.xml
+/.idea/.idea.trilha-net-explorando-desafio.dir/.idea/discord.xml
+/.idea/.idea.trilha-net-explorando-desafio.dir/.idea/indexLayout.xml
+/.idea/.idea.trilha-net-explorando-desafio.dir/.idea/vcs.xml
